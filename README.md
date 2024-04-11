@@ -13,3 +13,5 @@ With a love for both design and functionality.
 >“..., sooner or later you’re going to realize, just as I did, that there’s a difference between knowing the path and walking the path.” ― Morpheus
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Parrot.png" alt="Parrot" width="25" height="25" />
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=lehmax&layout=compact&theme=vue)
