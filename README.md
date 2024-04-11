@@ -1,4 +1,4 @@
-### Hi there, I'm Max 🤙
+### Hi there, I'm Max <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="25" height="25" />
 
 I'm a passionate frontend developer with a keen eye for clean and efficient code.
 With a love for both design and functionality.
