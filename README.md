@@ -1,4 +1,5 @@
-# Maxime Leherquer
+# Hi there 👋
+Maxime Leherquer
 Frontend Dev.
 
 <a href="https://maax.dev" target="_blank">
