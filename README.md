@@ -1,2 +1,1 @@
-# Maxime Leherquer
-Frontend Dev.
+# Hi there 👋
